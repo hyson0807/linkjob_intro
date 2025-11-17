@@ -14,13 +14,7 @@
 
 ### 1. 로컬 설정
 ```bash
-# 설정 스크립트 실행
-./setup.sh
 
-# 또는 수동 설정
-git init
-git add .
-git commit -m "Initial commit"
 ```
 
 ### 2. GitHub 저장소 생성
