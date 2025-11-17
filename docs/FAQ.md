@@ -96,13 +96,6 @@ ISMS-P 인증을 받았으며, 모든 데이터는 암호화되어 저장됩니�
 ### 버그를 발견했어요
 dev@linkjob.kr로 상세 내용과 스크린샷을 보내주세요.
 
-## 📞 연락처
 
-- 일반 문의: support@linkjob.kr
-- 기업 문의: business@linkjob.kr
-- 제휴 문의: partner@linkjob.kr
-- 개발 문의: dev@linkjob.kr
-
----
 
 더 많은 질문이 있으신가요? [linkjob.kr](https://linkjob.kr)를 방문하세요!
