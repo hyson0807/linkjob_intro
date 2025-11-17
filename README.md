@@ -7,8 +7,8 @@
   <h3>한국에서 일자리를 찾는 외국인과 외국인 직원을 찾는 기업을 연결합니다</h3>
 
   [![Website](https://img.shields.io/badge/Website-linkjob.kr-blue?style=for-the-badge)](https://linkjob.kr)
-  [![App Store](https://img.shields.io/badge/App%20Store-Download-black?style=for-the-badge&logo=apple)](https://apps.apple.com/kr/app/linkjob/id6504370836)
-  [![Google Play](https://img.shields.io/badge/Google%20Play-Download-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.welkit.linkjob)
+  [![App Store](https://img.shields.io/badge/App%20Store-Download-black?style=for-the-badge&logo=apple)](https://apps.apple.com/kr/app/linkjob/id6749147143)
+  [![Google Play](https://img.shields.io/badge/Google%20Play-Download-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.welkit.kgency)
 
   <p align="center">
     <a href="#특징">특징</a> •
@@ -164,10 +164,10 @@ LinkJob은 **한국에서 일자리를 찾는 외국인 구직자**와 **외국�
 ## 📱 다운로드
 
 <div align="center">
-  <a href="https://apps.apple.com/kr/app/linkjob/id6504370836">
+  <a href="https://apps.apple.com/kr/app/linkjob/id6749147143">
     <img src="assets/images/app-store-badge.png" height="60" alt="Download on App Store">
   </a>
-  <a href="https://play.google.com/store/apps/details?id=com.welkit.linkjob">
+  <a href="https://play.google.com/store/apps/details?id=com.welkit.kgency">
     <img src="assets/images/google-play-badge.png" height="60" alt="Get it on Google Play">
   </a>
 </div>
